@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+
+
+#main{
+
+    background-color: #eee;
+    text-align: center;
+    padding:15px 0;
+    margin: 30px 8px;
+    display: block;
+    border-radius: 5px;
+}
+
+title{
+    font-size: 4em;
+    
+}
+
+figcaption{
+    text-align: center;
+}
+#tribute-info{
+    text-align: center;
+    width: 50%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    font: small;
+}
+
